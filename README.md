@@ -1,14 +1,14 @@
 ## Hi I'm Jhelan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I am Jhelan Suggun and I like to a make interesting applications. Follow me for future craziness.
+I am Jhelan Suggun and I like to make interesting applications. Follow me for future craziness.
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhelan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhelan-suggun/) [![Mail Badge](https://img.shields.io/badge/-JhelanMail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jksuggun@hotmail.co.uk)
 
 <!-- TODO: Add last video link -->
 
-- 🤔 I’m currently seeking opportunities to work as a software engineer/developer
+- 🤔 I am currently seeking opportunities to work as a software engineer/developer
 - 😄 Visit my portfolio: https://jhelan.dev
 - :computer: Most used line of code: `printf() - Show me what you see so I can solve it`
 - ⚡ Fun fact: I like watching anime and driving sports cars.
@@ -21,11 +21,11 @@ I am Jhelan Suggun and I like to a make interesting applications. Follow me for 
 
 #### Personal Info
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/RyanJKS/portfolio-v2/blob/master/src/Assets/CV.pdf)
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RyanJKS.RyanJKS)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RyanJKS)
 
 <details>
 <summary>
