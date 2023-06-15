@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jhelan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-<h3 align="center">Software Developer from UK</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🤔 I am currently seeking opportunities to work as a software engineer/developer
 - 👨‍💻 Check out my portfolio website on [jhelan.dev](https://jhelan.dev/)
