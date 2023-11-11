@@ -33,7 +33,10 @@ Thank you for visiting my GitHub profile. Feel free to browse my repositories an
 
 <h3 align="left">Personal Info </h3>
 
+- :globe_with_meridians: [Portfolio Website](https://jhelan.dev/)
+
 - :paperclip: [My Resume/CV](https://github.com/RyanJKS/portfolio-v2/blob/master/src/Assets/CV.pdf)
+
 
 <h3 align="left">Stats:</h3>
 
